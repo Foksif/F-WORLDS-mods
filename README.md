@@ -1,6 +1,6 @@
 # F-WORLDS-mods
 <div><h3>Сборка модов для сервера <h2>F-WORLDS</h2></h3></div>
----
+
 Для начала работы скачайте данный репозиторий после перикиньти файлы из папки 'mods' в 'AppData\Roaming\.minecraft\mods'
 <br>
 <br>
